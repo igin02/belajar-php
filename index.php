@@ -1,6 +1,6 @@
 <?php
 
-// $nama = "Virginia";
+// $nama = "Virginia Nasya";
 
 /*
 echo $nama;
@@ -64,7 +64,7 @@ foreach($data as $value) {
 
 // PERCABANGAN
 /*
-if ($nama == "Virginia") {
+if ($nama == "Virginia Nasya") {
     echo $nama."adalah orang Manado"; 
 }else if ($nama == "Justin") {
     echo $nama."berasal dari canada";
@@ -74,7 +74,7 @@ if ($nama == "Virginia") {
   */  
   /*
 switch($nama) {
-    case "Virginia";
+    case "Virginia Nasya";
     echo $nama." adalah orang manado";
     break;
     case "Justin"
@@ -112,7 +112,7 @@ echo $pesan;
         if(!empty($_Post['submit'] )) {
 
             switch($_Post['nama']) {
-                case "Virginia";
+                case "Virginia Nasya";
                     echo $nama." adalah orang manado"
                 break;
                 case "Justin"
