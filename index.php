@@ -77,7 +77,7 @@ switch($nama) {
     case "Virginia";
     echo $nama." adalah orang manado";
     break;
-    case "Justin"
+    case "Justin Bieber"
         echo $nama." adalah orang manado"
     break;
     default: 
@@ -115,7 +115,7 @@ echo $pesan;
                 case "Virginia";
                     echo $nama." adalah orang manado"
                 break;
-                case "Justin"
+                case "Justin Bieber"
                     echo $nama." adalah orang manado"
                 break;
                 default: 
